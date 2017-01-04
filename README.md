@@ -1,2 +1,4 @@
 # Assameese_Bible
-Assameese Bible (CC by SA)  currently New Testament only
+Assameese Bible (CC by SA) 
+
+currently New Testament only
