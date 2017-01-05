@@ -1,2 +1,2 @@
-# Assameese_Bible
-Assameese Bible (CC by SA)
+# Assamese_Bible
+Assamese Bible (CC by SA)
