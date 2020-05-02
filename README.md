@@ -5,7 +5,7 @@ Full Bible (66 books) available now.
 
 Read Bible, Download Android/Desktop Apps
 
-http://freebiblesindia.com/bible/asm/
+http://www.freebiblesindia.in/bible/asm/
 
 ## Thanks
 As we submit this translation for publication, we recognize that any translation of the Scriptures is subject to limitations and imperfections. 
