@@ -1,6 +1,6 @@
 # Assamese Bible
 
-![icon](https://github.com/FreeBiblesIndia/Assamese_Bible/blob/master/icon.png?raw=true)
+![icon](https://github.com/FreeBiblesIndia/Assamese_Bible/blob/master/icons/icon.png?raw=true)
 
 Assamese Bible (CC by SA)
 
