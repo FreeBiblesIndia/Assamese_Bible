@@ -1,4 +1,5 @@
 # Assamese Bible
+icon.png
 Assamese Bible (CC by SA)
 
 Full Bible (66 books) available now.
